@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/Sumarina/mview-react-native/issues"
   },
-  "homepage": "https://github.com/Sumarina/mview-react-native#readme"
+  "homepage": "https://github.com/Sumarina/mview-react-native#readme",
+  "gitHead": "4905caab74b9249a30823dce2d53e35cccb7b766"
 }
